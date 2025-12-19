@@ -1,0 +1,10 @@
+torch==2.7.0
+transformers==4.57.3
+datasets==4.4.1
+pandas==2.2.3
+numpy==2.2.5
+scikit-learn==1.6.1
+matplotlib==3.10.1
+seaborn==0.13.2
+streamlit==1.52.2
+gradio==6.1.0
